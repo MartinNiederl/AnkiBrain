@@ -16,7 +16,10 @@ tmp/
 .adminjs/
 anki-chatgpt/venv/
 .yarn/
-.venv/*
+user_files/venv
+user_files/db
+*.pyc
+user_files/settings.json
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
